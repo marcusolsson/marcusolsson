@@ -13,8 +13,8 @@
 
 #### Plugins for Grafana
 
-- [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-plugin)
-- [Treemap panel](https://github.com/marcusolsson/grafana-treemap-plugin)
+- [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
+- [Treemap panel](https://github.com/marcusolsson/grafana-treemap-panel)
 - [Static data source](https://github.com/marcusolsson/grafana-static-datasource)
 
 #### Archived
