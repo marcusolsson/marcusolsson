@@ -16,6 +16,7 @@
 - [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
 - [Treemap panel](https://github.com/marcusolsson/grafana-treemap-panel)
 - [Static data source](https://github.com/marcusolsson/grafana-static-datasource)
+- [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel)
 
 #### Archived
 
