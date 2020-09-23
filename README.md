@@ -13,9 +13,13 @@
 
 #### Plugins for Grafana
 
+##### Panels
+
 - [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
 - [Treemap panel](https://github.com/marcusolsson/grafana-treemap-panel)
 - [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel)
+
+##### Data sources 
 
 - [Static data source](https://github.com/marcusolsson/grafana-static-datasource)
 - [JSON API data source](https://github.com/marcusolsson/grafana-jsonapi-datasource)
