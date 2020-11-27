@@ -1,7 +1,6 @@
 ### Hi, I'm Marcus 👋
 
 - 🔭 I’m currently working as a **Developer Advocate** at [Grafana Labs](https://grafana.com).
-- 🌱 I’m currently learning ReactJS and TypeScript.
 - 👯 I’m looking to collaborate on open source plugins for [Grafana](https://github.com/grafana/grafana).
 - 📫 Reach me on [Twitter](https://twitter.com/marcusolsson) or [email](mailto:marcus.olsson@hey.com).
 
