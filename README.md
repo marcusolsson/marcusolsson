@@ -18,6 +18,7 @@
 - [Treemap panel](https://github.com/marcusolsson/grafana-treemap-panel)
 - [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel)
 - [Hexmap panel](https://github.com/marcusolsson/grafana-hexmap-panel)
+- [Gantt panel](https://github.com/marcusolsson/grafana-gantt-panel)
 
 ##### Data sources 
 
