@@ -13,7 +13,7 @@
 - [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel)
 - [Hexmap panel](https://github.com/marcusolsson/grafana-hexmap-panel)
 - [Gantt panel](https://github.com/marcusolsson/grafana-gantt-panel)
-- [Calendar panel](https://github.com/marcusolsson/grafana-calender-panel) (Unpublished)
+- [Calendar panel](https://github.com/marcusolsson/grafana-calendar-panel) (Unpublished)
 
 #### Data sources 
 
