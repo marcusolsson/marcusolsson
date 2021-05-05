@@ -6,6 +6,8 @@
 
 ### Open source plugins for [Grafana](https://github.com/grafana/grafana)
 
+To see what I'm currently working on right now, check out my [plugin project board](https://github.com/users/marcusolsson/projects/1).
+
 #### Panels
 
 - [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
