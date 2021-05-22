@@ -1,6 +1,6 @@
 ### Hi, I'm Marcus 👋
 
-I'm a **Developer Advocate** at [Grafana Labs](https://grafana.com) where I help community members build custom visualizations and integrations for [Grafana](https://github.com/grafana/grafana) through plugins. 
+I'm a **Developer Advocate** at [Grafana Labs](https://grafana.com) where I help the community to build custom visualizations and integrations for [Grafana](https://github.com/grafana/grafana) through plugins. 
 
 Here are some other places you can find me on the internet:
 
