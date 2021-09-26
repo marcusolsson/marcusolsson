@@ -31,6 +31,12 @@ To see what I'm currently working on right now, check out my [plugin project boa
 - [JSON API data source](https://github.com/marcusolsson/grafana-jsonapi-datasource)
 - [CSV data source](https://github.com/marcusolsson/grafana-csv-datasource)
 
+### Obsidian
+
+I'm maintainining an unofficial documentation site for anyone who wants to build their own plugin for [Obsidian](https://obsidian.md):
+
+- [Developer docs for Obsidian plugins](https://marcus.se.net/obsidian-plugin-docs)
+
 ### Other projects
 
 - [Edith](https://github.com/marcusolsson/edith), an open source learning platform based on **Gatsby**.
@@ -44,6 +50,6 @@ I have many ideas. Unfortunately, I'm not able to maintain them all. Here are a 
 - [tui-go](https://github.com/marcusolsson/tui-go), a UI library for terminal applications, written in Go.
 - [goddd](https://github.com/marcusolsson/goddd), a Go port of the sample application from the [Domain Driven Design book](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215).
 
-## Buy me a coffee ☕️
+### Buy me a coffee ☕️
 
 If I've made something that was helpful or useful to you, you can [buy me a coffee](https://www.paypal.com/donate?hosted_button_id=NT93NXBDFWH6J) to show your support ☕️ 
