@@ -43,3 +43,7 @@ I have many ideas. Unfortunately, I'm not able to maintain them all. Here are a 
 
 - [tui-go](https://github.com/marcusolsson/tui-go), a UI library for terminal applications, written in Go.
 - [goddd](https://github.com/marcusolsson/goddd), a Go port of the sample application from the [Domain Driven Design book](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215).
+
+## Buy me a coffee ☕️
+
+If I've made some that was helpful or useful to you, you can [buy me a coffee](https://www.paypal.com/donate?hosted_button_id=NT93NXBDFWH6J) ☕️
