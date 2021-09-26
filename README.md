@@ -46,4 +46,4 @@ I have many ideas. Unfortunately, I'm not able to maintain them all. Here are a 
 
 ## Buy me a coffee ☕️
 
-If I've made some that was helpful or useful to you, you can [buy me a coffee](https://www.paypal.com/donate?hosted_button_id=NT93NXBDFWH6J) ☕️
+If I've made something that was helpful or useful to you, you can [buy me a coffee](https://www.paypal.com/donate?hosted_button_id=NT93NXBDFWH6J) to show your support ☕️ 
