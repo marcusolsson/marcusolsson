@@ -36,6 +36,7 @@ To see what I'm currently working on right now, check out my [plugin project boa
 I'm maintainining an unofficial documentation site for anyone who wants to build their own plugin for [Obsidian](https://obsidian.md):
 
 - [Developer docs for Obsidian plugins](https://marcus.se.net/obsidian-plugin-docs)
+- [Creature](https://github.com/marcusolsson/obsidian-creature-theme) is a minimal, dark-only theme
 
 ### Other projects
 
