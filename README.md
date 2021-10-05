@@ -33,10 +33,11 @@ To see what I'm currently working on right now, check out my [plugin project boa
 
 ### Obsidian
 
-I'm maintainining an unofficial documentation site for anyone who wants to build their own plugin for [Obsidian](https://obsidian.md):
+I use [Obsidian](https://obsidian.md) for all my learning, planning, and general note-taking. Fortunately, you can also extend it to support even more use cases. Here are a few of the projects I've been working on:
 
-- [Developer docs for Obsidian plugins](https://marcus.se.net/obsidian-plugin-docs)
-- [Creature](https://github.com/marcusolsson/obsidian-creature-theme) is a minimal, dark-only theme
+- [Obsidian plugin docs](https://github.com/marcusolsson/obsidian-plugin-docs), the [unofficial guide for developing Obsidian plugins](https://marcus.se.net/obsidian-plugin-docs).
+- [Obsidian Vale](https://github.com/marcusolsson/obsidian-vale), an Obsidian plugin for [Vale](https://github.com/errata-ai/vale).
+- [Creature](https://github.com/marcusolsson/obsidian-creature-theme), a minimal, dark-only theme for Obsidian.
 
 ### Other projects
 
