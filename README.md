@@ -37,6 +37,7 @@ I use [Obsidian](https://obsidian.md) for all my learning, planning, and general
 
 - [Obsidian plugin docs](https://github.com/marcusolsson/obsidian-plugin-docs), the [unofficial guide for developing Obsidian plugins](https://marcus.se.net/obsidian-plugin-docs).
 - [Obsidian Vale](https://github.com/marcusolsson/obsidian-vale), an Obsidian plugin for [Vale](https://github.com/errata-ai/vale).
+- [Obsidian pipe tricks](https://github.com/marcusolsson/obsidian-pipe-tricks), an Obsidian plugin that adds support for [pipe tricks](https://en.wikipedia.org/wiki/Help:Pipe_trick) to Obsidian.
 - [Creature](https://github.com/marcusolsson/obsidian-creature-theme), a minimal, dark-only theme for Obsidian.
 
 ### Other projects
