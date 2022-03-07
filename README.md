@@ -14,7 +14,7 @@ _Psst!_ If you'd like help with building plugins for [Grafana](https://github.co
 
 When I'm not helping others to build plugins I maintain a number of plugins myself. 
 
-To see what I'm currently working on right now, check out my [plugin project board](https://github.com/users/marcusolsson/projects/1).
+To see what I'm currently working on right now, check out my [plugin project board](https://github.com/users/marcusolsson/projects/2).
 
 #### Panels
 
