@@ -37,6 +37,8 @@ I use [Obsidian](https://obsidian.md) for all my learning, planning, and general
 
 ### Other projects
 
+- [json-schema-docs](https://github.com/marcusolsson/json-schema-docs), a command-line tool for generating Markdown from a JSON Schema.
+- [dts-docs](https://github.com/marcusolsson/dts-docs), a command-line tool for generating Markdown from a .d.ts file.
 - [Edith](https://github.com/marcusolsson/edith), an open source learning platform based on **Gatsby**.
 - [Enough](https://github.com/marcusolsson/vscode-theme-enough), a minimalistic theme for [VS Code](https://code.visualstudio.com/).
 - [Gophers](https://github.com/marcusolsson/gophers), free-to-use illustrations of the Go gopher.
