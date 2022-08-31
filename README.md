@@ -1,6 +1,6 @@
 ### Hi, I'm Marcus 👋
 
-I'm a **Developer Advocate** at [Grafana Labs](https://grafana.com) where I help the community to build custom visualizations and integrations for [Grafana](https://github.com/grafana/grafana) through plugins. 
+I'm a freelance **Developer Educator** who helps teams build learning experiences for developers.
 
 Here are some other places you can find me on the internet:
 
@@ -8,13 +8,9 @@ Here are some other places you can find me on the internet:
 - [Website](https://marcus.se.net)
 - [LinkedIn](https://linkedin.com/in/marcusolsson1)
 
-_Psst!_ If you'd like help with building plugins for [Grafana](https://github.com/grafana/grafana), you can schedule a call with me on [Calendly](https://calendly.com/marcusolsson/plugin-development).
-
 ### Open source plugins for [Grafana](https://github.com/grafana/grafana)
 
-When I'm not helping others to build plugins I maintain a number of plugins myself. 
-
-To see what I'm currently working on right now, check out my [plugin project board](https://github.com/users/marcusolsson/projects/2).
+During my time at Grafana Labs, I built a number of plugin for Grafana:
 
 - [JSON API data source](https://github.com/marcusolsson/grafana-jsonapi-datasource)
 - [CSV data source](https://github.com/marcusolsson/grafana-csv-datasource)
