@@ -18,9 +18,9 @@ During my time at Grafana Labs, I built a number of plugin for Grafana:
 - [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
 - [Gantt panel](https://github.com/marcusolsson/grafana-gantt-panel)
 - [Hexmap panel](https://github.com/marcusolsson/grafana-hexmap-panel)
-- [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel) (maintained by @VolkovLabs)
-- [Calendar panel](https://github.com/marcusolsson/grafana-calendar-panel) (maintained by @VolkovLabs)
-- [Static data source](https://github.com/marcusolsson/grafana-static-datasource) (maintained by @VolkovLabs)
+- [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel) (maintained by [@VolkovLabs](https://github.com/VolkovLabs))
+- [Calendar panel](https://github.com/marcusolsson/grafana-calendar-panel) (maintained by [@VolkovLabs](https://github.com/VolkovLabs))
+- [Static data source](https://github.com/marcusolsson/grafana-static-datasource) (maintained by [@VolkovLabs](https://github.com/VolkovLabs))
 
 ### Obsidian
 
