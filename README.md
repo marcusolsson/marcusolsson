@@ -15,12 +15,12 @@ During my time at Grafana Labs, I built a number of plugin for Grafana:
 - [JSON API data source](https://github.com/marcusolsson/grafana-jsonapi-datasource)
 - [CSV data source](https://github.com/marcusolsson/grafana-csv-datasource)
 - [Treemap panel](https://github.com/marcusolsson/grafana-treemap-panel)
-- [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel)
 - [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
-- [Calendar panel](https://github.com/marcusolsson/grafana-calendar-panel)
 - [Gantt panel](https://github.com/marcusolsson/grafana-gantt-panel)
 - [Hexmap panel](https://github.com/marcusolsson/grafana-hexmap-panel)
-- [Static data source](https://github.com/marcusolsson/grafana-static-datasource)
+- [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel) (maintained by @VolkovLabs)
+- [Calendar panel](https://github.com/marcusolsson/grafana-calendar-panel) (maintained by @VolkovLabs)
+- [Static data source](https://github.com/marcusolsson/grafana-static-datasource) (maintained by @VolkovLabs)
 
 ### Obsidian
 
