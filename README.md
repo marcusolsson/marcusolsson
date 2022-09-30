@@ -12,15 +12,15 @@ Here are some other places you can find me on the internet:
 
 During my time at Grafana Labs, I built a number of plugin for Grafana:
 
-- [JSON API data source](https://github.com/marcusolsson/grafana-jsonapi-datasource)
-- [CSV data source](https://github.com/marcusolsson/grafana-csv-datasource)
-- [Treemap panel](https://github.com/marcusolsson/grafana-treemap-panel)
-- [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
-- [Gantt panel](https://github.com/marcusolsson/grafana-gantt-panel)
-- [Hexmap panel](https://github.com/marcusolsson/grafana-hexmap-panel)
+- [JSON API data source](https://github.com/marcusolsson/grafana-jsonapi-datasource) (maintained by [@grafana](https://github.com/grafana))
+- [CSV data source](https://github.com/marcusolsson/grafana-csv-datasource) (maintained by [@grafana](https://github.com/grafana))
+- [Treemap panel](https://github.com/marcusolsson/grafana-treemap-panel) (maintained by [@grafana](https://github.com/grafana))
 - [Dynamic text panel](https://github.com/marcusolsson/grafana-dynamictext-panel) (maintained by [@VolkovLabs](https://github.com/VolkovLabs))
 - [Calendar panel](https://github.com/marcusolsson/grafana-calendar-panel) (maintained by [@VolkovLabs](https://github.com/VolkovLabs))
 - [Static data source](https://github.com/marcusolsson/grafana-static-datasource) (maintained by [@VolkovLabs](https://github.com/VolkovLabs))
+- [Hourly heatmap panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)
+- [Gantt panel](https://github.com/marcusolsson/grafana-gantt-panel)
+- [Hexmap panel](https://github.com/marcusolsson/grafana-hexmap-panel)
 
 ### Obsidian
 
