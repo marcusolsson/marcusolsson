@@ -51,3 +51,5 @@ I have many ideas. Unfortunately, I'm not able to maintain them all. Here are a 
 If I've made something that was helpful or useful to you, you can buy me a coffee to show your support ☕️ 
 
 <a href="https://www.buymeacoffee.com/marcusolsson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 150px !important;" ></a>
+
+You can also find me on <a rel="me" href="https://pkm.social/@marcusolsson">Mastodon</a>.
