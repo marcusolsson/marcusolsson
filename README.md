@@ -4,7 +4,6 @@ I'm a freelance **Developer Educator** who helps teams build learning experience
 
 Here are some other places you can find me on the internet:
 
-- [Twitter](https://twitter.com/marcusolsson)
 - [Website](https://marcus.se.net)
 - [LinkedIn](https://linkedin.com/in/marcusolsson1)
 
