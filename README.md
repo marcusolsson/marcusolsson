@@ -1,6 +1,6 @@
 ### Hi, I'm Marcus 👋
 
-I'm a freelance **Developer Educator** who helps teams build learning experiences for developers.
+I'm a **Developer Educator** at AssemblyAI who helps teams build learning experiences for developers.
 
 Here are some other places you can find me on the internet:
 
