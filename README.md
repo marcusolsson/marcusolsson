@@ -4,9 +4,10 @@ I'm a **Developer Educator** at AssemblyAI, who help developers build things.
 
 Here are some other places you can find me on the internet:
 
-- [Website](https://marcus.se.net)
+- [Website](https://marcusolsson.dev)
 - [LinkedIn](https://linkedin.com/in/marcusolsson1)
 - [Mastodon](https://hachyderm.io/@marcusolsson)
+- [Bluesky](https://bsky.app/profile/marcusolsson.dev)
 
 ### Show your support ☕️
 
