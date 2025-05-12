@@ -1,7 +1,5 @@
 ### Hi, I'm Marcus 👋
 
-I'm a **Developer Educator** at AssemblyAI, who help developers build things.
-
 Here are some other places you can find me on the internet:
 
 - [Website](https://marcusolsson.dev)
